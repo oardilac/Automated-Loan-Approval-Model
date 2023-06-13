@@ -152,8 +152,6 @@ Project Link: [https://github.com/oardilac/Automated-Loan-Approval-Model](https:
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-- [TensorFlow](https://www.tensorflow.org/)
-- [Keras](https://keras.io/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Python](https://www.python.org/)
 
