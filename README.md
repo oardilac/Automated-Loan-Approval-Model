@@ -54,13 +54,13 @@
 This project is about creating a machine learning model that allows predicting whether a client is suitable or not to receive a loan. For this, historical loan data is used and a model is trained using different classification algorithms. Later, the model's performance will be evaluated using appropriate metrics and the best model for its implementation in the loan approval process will be selected.
 
 ### Built With
-
-* [Python](https://www.python.org/)
-* [Pandas](https://pandas.pydata.org/)
-* [NumPy](https://numpy.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [Seaborn](https://seaborn.pydata.org/)
-* [Scikit-learn](https://scikit-learn.org/stable/)
+* [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+* [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+* [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+* [![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+* [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+* [![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+* [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
